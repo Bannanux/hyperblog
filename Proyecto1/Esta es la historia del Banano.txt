@@ -1,5 +1,6 @@
 Esta es la historia del Banano
 
-El banano nacio en Colima, Mexico y tiene 27 años.
+    El banano nacio en Colima, 
+    Mexico y tiene 28 años.
 
 Hoy hablaremos con el!
